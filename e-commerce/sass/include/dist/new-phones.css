@@ -1,0 +1,9 @@
+#new-phones .owl-carousel .item .product a {
+  overflow: hidden;
+}
+#new-phones .owl-carousel .item .product img {
+  transition: all 0.2s ease-in-out;
+}
+#new-phones .owl-carousel .item .product:hover img {
+  transform: scale(1.1);
+}
