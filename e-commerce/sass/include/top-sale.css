@@ -1,9 +1,0 @@
-#top-sale .owl-carousel .item .product a {
-  overflow: hidden;
-}
-#top-sale .owl-carousel .item .product img {
-  transition: all 1s ease;
-}
-#top-sale .owl-carousel .item .product a img:hover {
-  height: 100px;
-}/*# sourceMappingURL=top-sale.css.map */
